@@ -1,0 +1,17 @@
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\Application.dll
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\Domain.dll
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\Application.pdb
+D:\work\ERP\ERP\API\ERP\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\work\ERP\ERP\API\ERP\Persistence\obj\Debug\net5.0\Persistence.pdb

@@ -1,0 +1,15 @@
+D:\work\ERP\ERP\API\ERP\Application\bin\Debug\net5.0\Application.deps.json
+D:\work\ERP\ERP\API\ERP\Application\bin\Debug\net5.0\Application.dll
+D:\work\ERP\ERP\API\ERP\Application\bin\Debug\net5.0\ref\Application.dll
+D:\work\ERP\ERP\API\ERP\Application\bin\Debug\net5.0\Application.pdb
+D:\work\ERP\ERP\API\ERP\Application\bin\Debug\net5.0\Domain.dll
+D:\work\ERP\ERP\API\ERP\Application\bin\Debug\net5.0\Domain.pdb
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.dll
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\ref\Application.dll
+D:\work\ERP\ERP\API\ERP\Application\obj\Debug\net5.0\Application.pdb
